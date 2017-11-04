@@ -49,4 +49,5 @@ mochawesome-reports
 # Miscellaneous
 .idea/
 .env
+dump.rdb
 
